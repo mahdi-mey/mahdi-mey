@@ -6,5 +6,5 @@ const skills = [
   Html,
   Css,
   Javascript
-
+]
 ```
