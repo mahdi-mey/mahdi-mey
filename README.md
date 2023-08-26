@@ -1,5 +1,10 @@
 ## About Me
 
-```
-Html Css Javascript
+``` js
+
+const skills = [
+  Html,
+  Css,
+  Javascript
+
 ```
