@@ -8,7 +8,7 @@
 
 📖My hobbies are reading books and mastering my english language.
 
-👨‍🎓I am an information and technologhy student
+👨‍🎓I am an information and technologhy student.
 
 ## About Me
 
