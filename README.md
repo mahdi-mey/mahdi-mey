@@ -22,4 +22,4 @@ const skills = [
 
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-mey&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-mey&layout=compact&theme=dark)
