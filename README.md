@@ -17,7 +17,21 @@
 const skills = [
   Html,
   Css,
+  sass,
+  bootstrap,
   Javascript
+]
+
+```
+
+---
+
+``` js
+
+const softSkills = [
+  algorithm,
+  adaptability,
+  problemSolving
 ]
 
 ```
