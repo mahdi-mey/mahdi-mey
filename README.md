@@ -29,6 +29,7 @@ const skills = [
 ``` js
 
 const softSkills = [
+  cleanCode,
   algorithm,
   adaptability,
   problemSolving
