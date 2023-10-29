@@ -17,8 +17,8 @@
 const skills = [
   Html,
   Css,
-  sass,
-  bootstrap,
+  Sass,
+  Bootstrap,
   Javascript
 ]
 
