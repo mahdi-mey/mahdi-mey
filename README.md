@@ -29,10 +29,10 @@ const skills = [
 ``` js
 
 const softSkills = [
-  cleanCode,
-  algorithm,
-  adaptability,
-  problemSolving
+  CleanCode,
+  Algorithm,
+  ProblemSolving
+  Adaptability,
 ]
 
 ```
