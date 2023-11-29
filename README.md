@@ -38,5 +38,4 @@ const softSkills = [
 ```
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-mey&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-mey&hide_progress=true&theme=dark)
