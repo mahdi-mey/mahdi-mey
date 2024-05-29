@@ -5,10 +5,6 @@
 
 🎃I am currently learning Reactjs and I love it.
 
-✒I also did photoshop and illustrator previously.
-
-📖My hobbies are reading books and mastering my english language.
-
 👨‍🎓I am an information and technologhy student.
 
 # 💻 Tech Stack:
